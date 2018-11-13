@@ -10,7 +10,7 @@ The QR-Codes are generated thanks to the [phpqrcode library](http://phpqrcode.so
 
 Once created, any QR-Code is saved as a PNG on the server, and is cached for future serving. Make sur the "cache" subfolder of the plugin is writeable by your webserver.
 
-This plugin has been tested on the version 1.10 of TTRSS.
+This plugin has been tested on the version 18.8 of TTRSS.
 
 
 Installation
@@ -18,7 +18,7 @@ Installation
 
 1. Download ZIP and unzip it
 2. Rename the extracted folder from "ttrss-qrcode-master" to "qrcodegen"
-3. Upload the "qrcodegen" folder inside the "plugins" folder of your TTRSS installation
+3. Upload the "qrcodegen" folder inside the "plugins.local" folder of your TTRSS installation
 4. Activate the plugin through the configuration area of TTRSS
 
 
